@@ -1,0 +1,102 @@
+d:\Escritorio\Modulo 3-Pree\Mandaditos\Infrastructure\bin\Debug\net7.0\Infrastructure.deps.json
+d:\Escritorio\Modulo 3-Pree\Mandaditos\Infrastructure\bin\Debug\net7.0\Infrastructure.dll
+d:\Escritorio\Modulo 3-Pree\Mandaditos\Infrastructure\bin\Debug\net7.0\Infrastructure.pdb
+d:\Escritorio\Modulo 3-Pree\Mandaditos\Infrastructure\bin\Debug\net7.0\Application.dll
+d:\Escritorio\Modulo 3-Pree\Mandaditos\Infrastructure\bin\Debug\net7.0\Domain.dll
+d:\Escritorio\Modulo 3-Pree\Mandaditos\Infrastructure\bin\Debug\net7.0\Domain.pdb
+d:\Escritorio\Modulo 3-Pree\Mandaditos\Infrastructure\bin\Debug\net7.0\Application.pdb
+d:\Escritorio\Modulo 3-Pree\Mandaditos\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.AssemblyReference.cache
+d:\Escritorio\Modulo 3-Pree\Mandaditos\Infrastructure\obj\Debug\net7.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+d:\Escritorio\Modulo 3-Pree\Mandaditos\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfoInputs.cache
+d:\Escritorio\Modulo 3-Pree\Mandaditos\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfo.cs
+d:\Escritorio\Modulo 3-Pree\Mandaditos\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CoreCompileInputs.cache
+d:\Escritorio\Modulo 3-Pree\Mandaditos\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CopyComplete
+d:\Escritorio\Modulo 3-Pree\Mandaditos\Infrastructure\obj\Debug\net7.0\Infrastructure.dll
+d:\Escritorio\Modulo 3-Pree\Mandaditos\Infrastructure\obj\Debug\net7.0\refint\Infrastructure.dll
+d:\Escritorio\Modulo 3-Pree\Mandaditos\Infrastructure\obj\Debug\net7.0\Infrastructure.pdb
+d:\Escritorio\Modulo 3-Pree\Mandaditos\Infrastructure\obj\Debug\net7.0\ref\Infrastructure.dll
+D:\Escritorio\Modulo 3-Pree\MandaditosTarea\Infrastructure\bin\Debug\net7.0\Infrastructure.deps.json
+D:\Escritorio\Modulo 3-Pree\MandaditosTarea\Infrastructure\bin\Debug\net7.0\Infrastructure.dll
+D:\Escritorio\Modulo 3-Pree\MandaditosTarea\Infrastructure\bin\Debug\net7.0\Infrastructure.pdb
+D:\Escritorio\Modulo 3-Pree\MandaditosTarea\Infrastructure\bin\Debug\net7.0\Application.dll
+D:\Escritorio\Modulo 3-Pree\MandaditosTarea\Infrastructure\bin\Debug\net7.0\Domain.dll
+D:\Escritorio\Modulo 3-Pree\MandaditosTarea\Infrastructure\bin\Debug\net7.0\Domain.pdb
+D:\Escritorio\Modulo 3-Pree\MandaditosTarea\Infrastructure\bin\Debug\net7.0\Application.pdb
+D:\Escritorio\Modulo 3-Pree\MandaditosTarea\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.AssemblyReference.cache
+D:\Escritorio\Modulo 3-Pree\MandaditosTarea\Infrastructure\obj\Debug\net7.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\Modulo 3-Pree\MandaditosTarea\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfoInputs.cache
+D:\Escritorio\Modulo 3-Pree\MandaditosTarea\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfo.cs
+D:\Escritorio\Modulo 3-Pree\MandaditosTarea\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\Escritorio\Modulo 3-Pree\MandaditosTarea\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CopyComplete
+D:\Escritorio\Modulo 3-Pree\MandaditosTarea\Infrastructure\obj\Debug\net7.0\Infrastructure.dll
+D:\Escritorio\Modulo 3-Pree\MandaditosTarea\Infrastructure\obj\Debug\net7.0\refint\Infrastructure.dll
+D:\Escritorio\Modulo 3-Pree\MandaditosTarea\Infrastructure\obj\Debug\net7.0\Infrastructure.pdb
+D:\Escritorio\Modulo 3-Pree\MandaditosTarea\Infrastructure\obj\Debug\net7.0\ref\Infrastructure.dll
+D:\Escritorio\Modulo 3-Pree\TravelExplorer\Infrastructure\bin\Debug\net7.0\Infrastructure.deps.json
+D:\Escritorio\Modulo 3-Pree\TravelExplorer\Infrastructure\bin\Debug\net7.0\Infrastructure.dll
+D:\Escritorio\Modulo 3-Pree\TravelExplorer\Infrastructure\bin\Debug\net7.0\Infrastructure.pdb
+D:\Escritorio\Modulo 3-Pree\TravelExplorer\Infrastructure\bin\Debug\net7.0\Application.dll
+D:\Escritorio\Modulo 3-Pree\TravelExplorer\Infrastructure\bin\Debug\net7.0\Domain.dll
+D:\Escritorio\Modulo 3-Pree\TravelExplorer\Infrastructure\bin\Debug\net7.0\Domain.pdb
+D:\Escritorio\Modulo 3-Pree\TravelExplorer\Infrastructure\bin\Debug\net7.0\Application.pdb
+D:\Escritorio\Modulo 3-Pree\TravelExplorer\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.AssemblyReference.cache
+D:\Escritorio\Modulo 3-Pree\TravelExplorer\Infrastructure\obj\Debug\net7.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\Modulo 3-Pree\TravelExplorer\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfoInputs.cache
+D:\Escritorio\Modulo 3-Pree\TravelExplorer\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfo.cs
+D:\Escritorio\Modulo 3-Pree\TravelExplorer\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\Escritorio\Modulo 3-Pree\TravelExplorer\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CopyComplete
+D:\Escritorio\Modulo 3-Pree\TravelExplorer\Infrastructure\obj\Debug\net7.0\Infrastructure.dll
+D:\Escritorio\Modulo 3-Pree\TravelExplorer\Infrastructure\obj\Debug\net7.0\refint\Infrastructure.dll
+D:\Escritorio\Modulo 3-Pree\TravelExplorer\Infrastructure\obj\Debug\net7.0\Infrastructure.pdb
+D:\Escritorio\Modulo 3-Pree\TravelExplorer\Infrastructure\obj\Debug\net7.0\ref\Infrastructure.dll
+D:\Escritorio\Modulo 3-Pree\TravelExplorer _Respaldo\Infrastructure\bin\Debug\net7.0\Infrastructure.deps.json
+D:\Escritorio\Modulo 3-Pree\TravelExplorer _Respaldo\Infrastructure\bin\Debug\net7.0\Infrastructure.dll
+D:\Escritorio\Modulo 3-Pree\TravelExplorer _Respaldo\Infrastructure\bin\Debug\net7.0\Infrastructure.pdb
+D:\Escritorio\Modulo 3-Pree\TravelExplorer _Respaldo\Infrastructure\bin\Debug\net7.0\Application.dll
+D:\Escritorio\Modulo 3-Pree\TravelExplorer _Respaldo\Infrastructure\bin\Debug\net7.0\Domain.dll
+D:\Escritorio\Modulo 3-Pree\TravelExplorer _Respaldo\Infrastructure\bin\Debug\net7.0\Domain.pdb
+D:\Escritorio\Modulo 3-Pree\TravelExplorer _Respaldo\Infrastructure\bin\Debug\net7.0\Application.pdb
+D:\Escritorio\Modulo 3-Pree\TravelExplorer _Respaldo\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.AssemblyReference.cache
+D:\Escritorio\Modulo 3-Pree\TravelExplorer _Respaldo\Infrastructure\obj\Debug\net7.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\Modulo 3-Pree\TravelExplorer _Respaldo\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfoInputs.cache
+D:\Escritorio\Modulo 3-Pree\TravelExplorer _Respaldo\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfo.cs
+D:\Escritorio\Modulo 3-Pree\TravelExplorer _Respaldo\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\Escritorio\Modulo 3-Pree\TravelExplorer _Respaldo\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CopyComplete
+D:\Escritorio\Modulo 3-Pree\TravelExplorer _Respaldo\Infrastructure\obj\Debug\net7.0\Infrastructure.dll
+D:\Escritorio\Modulo 3-Pree\TravelExplorer _Respaldo\Infrastructure\obj\Debug\net7.0\refint\Infrastructure.dll
+D:\Escritorio\Modulo 3-Pree\TravelExplorer _Respaldo\Infrastructure\obj\Debug\net7.0\Infrastructure.pdb
+D:\Escritorio\Modulo 3-Pree\TravelExplorer _Respaldo\Infrastructure\obj\Debug\net7.0\ref\Infrastructure.dll
+C:\laragon\www\TravelExplorer\Infrastructure\bin\Debug\net7.0\Infrastructure.deps.json
+C:\laragon\www\TravelExplorer\Infrastructure\bin\Debug\net7.0\Infrastructure.dll
+C:\laragon\www\TravelExplorer\Infrastructure\bin\Debug\net7.0\Infrastructure.pdb
+C:\laragon\www\TravelExplorer\Infrastructure\bin\Debug\net7.0\Application.dll
+C:\laragon\www\TravelExplorer\Infrastructure\bin\Debug\net7.0\Domain.dll
+C:\laragon\www\TravelExplorer\Infrastructure\bin\Debug\net7.0\Domain.pdb
+C:\laragon\www\TravelExplorer\Infrastructure\bin\Debug\net7.0\Application.pdb
+C:\laragon\www\TravelExplorer\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.AssemblyReference.cache
+C:\laragon\www\TravelExplorer\Infrastructure\obj\Debug\net7.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\laragon\www\TravelExplorer\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfoInputs.cache
+C:\laragon\www\TravelExplorer\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfo.cs
+C:\laragon\www\TravelExplorer\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\laragon\www\TravelExplorer\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CopyComplete
+C:\laragon\www\TravelExplorer\Infrastructure\obj\Debug\net7.0\Infrastructure.dll
+C:\laragon\www\TravelExplorer\Infrastructure\obj\Debug\net7.0\refint\Infrastructure.dll
+C:\laragon\www\TravelExplorer\Infrastructure\obj\Debug\net7.0\Infrastructure.pdb
+C:\laragon\www\TravelExplorer\Infrastructure\obj\Debug\net7.0\ref\Infrastructure.dll
+C:\Travel\TareaDDD\Infrastructure\bin\Debug\net7.0\Infrastructure.deps.json
+C:\Travel\TareaDDD\Infrastructure\bin\Debug\net7.0\Infrastructure.dll
+C:\Travel\TareaDDD\Infrastructure\bin\Debug\net7.0\Infrastructure.pdb
+C:\Travel\TareaDDD\Infrastructure\bin\Debug\net7.0\Application.dll
+C:\Travel\TareaDDD\Infrastructure\bin\Debug\net7.0\Domain.dll
+C:\Travel\TareaDDD\Infrastructure\bin\Debug\net7.0\Domain.pdb
+C:\Travel\TareaDDD\Infrastructure\bin\Debug\net7.0\Application.pdb
+C:\Travel\TareaDDD\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Travel\TareaDDD\Infrastructure\obj\Debug\net7.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Travel\TareaDDD\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Travel\TareaDDD\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfo.cs
+C:\Travel\TareaDDD\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Travel\TareaDDD\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CopyComplete
+C:\Travel\TareaDDD\Infrastructure\obj\Debug\net7.0\Infrastructure.dll
+C:\Travel\TareaDDD\Infrastructure\obj\Debug\net7.0\refint\Infrastructure.dll
+C:\Travel\TareaDDD\Infrastructure\obj\Debug\net7.0\Infrastructure.pdb
+C:\Travel\TareaDDD\Infrastructure\obj\Debug\net7.0\ref\Infrastructure.dll

@@ -1,0 +1,72 @@
+d:\Escritorio\Modulo 3-Pree\Mandaditos\Domain\bin\Debug\net7.0\Domain.deps.json
+d:\Escritorio\Modulo 3-Pree\Mandaditos\Domain\bin\Debug\net7.0\Domain.dll
+d:\Escritorio\Modulo 3-Pree\Mandaditos\Domain\bin\Debug\net7.0\Domain.pdb
+d:\Escritorio\Modulo 3-Pree\Mandaditos\Domain\obj\Debug\net7.0\Domain.csproj.AssemblyReference.cache
+d:\Escritorio\Modulo 3-Pree\Mandaditos\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+d:\Escritorio\Modulo 3-Pree\Mandaditos\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+d:\Escritorio\Modulo 3-Pree\Mandaditos\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+d:\Escritorio\Modulo 3-Pree\Mandaditos\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+d:\Escritorio\Modulo 3-Pree\Mandaditos\Domain\obj\Debug\net7.0\Domain.dll
+d:\Escritorio\Modulo 3-Pree\Mandaditos\Domain\obj\Debug\net7.0\refint\Domain.dll
+d:\Escritorio\Modulo 3-Pree\Mandaditos\Domain\obj\Debug\net7.0\Domain.pdb
+d:\Escritorio\Modulo 3-Pree\Mandaditos\Domain\obj\Debug\net7.0\ref\Domain.dll
+D:\Escritorio\Modulo 3-Pree\MandaditosTarea\Domain\bin\Debug\net7.0\Domain.deps.json
+D:\Escritorio\Modulo 3-Pree\MandaditosTarea\Domain\bin\Debug\net7.0\Domain.dll
+D:\Escritorio\Modulo 3-Pree\MandaditosTarea\Domain\bin\Debug\net7.0\Domain.pdb
+D:\Escritorio\Modulo 3-Pree\MandaditosTarea\Domain\obj\Debug\net7.0\Domain.csproj.AssemblyReference.cache
+D:\Escritorio\Modulo 3-Pree\MandaditosTarea\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\Modulo 3-Pree\MandaditosTarea\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+D:\Escritorio\Modulo 3-Pree\MandaditosTarea\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+D:\Escritorio\Modulo 3-Pree\MandaditosTarea\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+D:\Escritorio\Modulo 3-Pree\MandaditosTarea\Domain\obj\Debug\net7.0\Domain.dll
+D:\Escritorio\Modulo 3-Pree\MandaditosTarea\Domain\obj\Debug\net7.0\refint\Domain.dll
+D:\Escritorio\Modulo 3-Pree\MandaditosTarea\Domain\obj\Debug\net7.0\Domain.pdb
+D:\Escritorio\Modulo 3-Pree\MandaditosTarea\Domain\obj\Debug\net7.0\ref\Domain.dll
+D:\Escritorio\Modulo 3-Pree\TravelExplorer\Domain\bin\Debug\net7.0\Domain.deps.json
+D:\Escritorio\Modulo 3-Pree\TravelExplorer\Domain\bin\Debug\net7.0\Domain.dll
+D:\Escritorio\Modulo 3-Pree\TravelExplorer\Domain\bin\Debug\net7.0\Domain.pdb
+D:\Escritorio\Modulo 3-Pree\TravelExplorer\Domain\obj\Debug\net7.0\Domain.csproj.AssemblyReference.cache
+D:\Escritorio\Modulo 3-Pree\TravelExplorer\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\Modulo 3-Pree\TravelExplorer\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+D:\Escritorio\Modulo 3-Pree\TravelExplorer\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+D:\Escritorio\Modulo 3-Pree\TravelExplorer\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+D:\Escritorio\Modulo 3-Pree\TravelExplorer\Domain\obj\Debug\net7.0\Domain.dll
+D:\Escritorio\Modulo 3-Pree\TravelExplorer\Domain\obj\Debug\net7.0\refint\Domain.dll
+D:\Escritorio\Modulo 3-Pree\TravelExplorer\Domain\obj\Debug\net7.0\Domain.pdb
+D:\Escritorio\Modulo 3-Pree\TravelExplorer\Domain\obj\Debug\net7.0\ref\Domain.dll
+D:\Escritorio\Modulo 3-Pree\TravelExplorer _Respaldo\Domain\bin\Debug\net7.0\Domain.deps.json
+D:\Escritorio\Modulo 3-Pree\TravelExplorer _Respaldo\Domain\bin\Debug\net7.0\Domain.dll
+D:\Escritorio\Modulo 3-Pree\TravelExplorer _Respaldo\Domain\bin\Debug\net7.0\Domain.pdb
+D:\Escritorio\Modulo 3-Pree\TravelExplorer _Respaldo\Domain\obj\Debug\net7.0\Domain.csproj.AssemblyReference.cache
+D:\Escritorio\Modulo 3-Pree\TravelExplorer _Respaldo\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\Modulo 3-Pree\TravelExplorer _Respaldo\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+D:\Escritorio\Modulo 3-Pree\TravelExplorer _Respaldo\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+D:\Escritorio\Modulo 3-Pree\TravelExplorer _Respaldo\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+D:\Escritorio\Modulo 3-Pree\TravelExplorer _Respaldo\Domain\obj\Debug\net7.0\Domain.dll
+D:\Escritorio\Modulo 3-Pree\TravelExplorer _Respaldo\Domain\obj\Debug\net7.0\refint\Domain.dll
+D:\Escritorio\Modulo 3-Pree\TravelExplorer _Respaldo\Domain\obj\Debug\net7.0\Domain.pdb
+D:\Escritorio\Modulo 3-Pree\TravelExplorer _Respaldo\Domain\obj\Debug\net7.0\ref\Domain.dll
+C:\laragon\www\TravelExplorer\Domain\bin\Debug\net7.0\Domain.deps.json
+C:\laragon\www\TravelExplorer\Domain\bin\Debug\net7.0\Domain.dll
+C:\laragon\www\TravelExplorer\Domain\bin\Debug\net7.0\Domain.pdb
+C:\laragon\www\TravelExplorer\Domain\obj\Debug\net7.0\Domain.csproj.AssemblyReference.cache
+C:\laragon\www\TravelExplorer\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\laragon\www\TravelExplorer\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+C:\laragon\www\TravelExplorer\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+C:\laragon\www\TravelExplorer\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+C:\laragon\www\TravelExplorer\Domain\obj\Debug\net7.0\Domain.dll
+C:\laragon\www\TravelExplorer\Domain\obj\Debug\net7.0\refint\Domain.dll
+C:\laragon\www\TravelExplorer\Domain\obj\Debug\net7.0\Domain.pdb
+C:\laragon\www\TravelExplorer\Domain\obj\Debug\net7.0\ref\Domain.dll
+C:\Travel\TareaDDD\Domain\bin\Debug\net7.0\Domain.deps.json
+C:\Travel\TareaDDD\Domain\bin\Debug\net7.0\Domain.dll
+C:\Travel\TareaDDD\Domain\bin\Debug\net7.0\Domain.pdb
+C:\Travel\TareaDDD\Domain\obj\Debug\net7.0\Domain.csproj.AssemblyReference.cache
+C:\Travel\TareaDDD\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Travel\TareaDDD\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+C:\Travel\TareaDDD\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+C:\Travel\TareaDDD\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+C:\Travel\TareaDDD\Domain\obj\Debug\net7.0\Domain.dll
+C:\Travel\TareaDDD\Domain\obj\Debug\net7.0\refint\Domain.dll
+C:\Travel\TareaDDD\Domain\obj\Debug\net7.0\Domain.pdb
+C:\Travel\TareaDDD\Domain\obj\Debug\net7.0\ref\Domain.dll

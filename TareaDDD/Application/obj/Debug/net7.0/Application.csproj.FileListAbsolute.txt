@@ -1,0 +1,90 @@
+d:\Escritorio\Modulo 3-Pree\Mandaditos\Application\bin\Debug\net7.0\Application.deps.json
+d:\Escritorio\Modulo 3-Pree\Mandaditos\Application\bin\Debug\net7.0\Application.dll
+d:\Escritorio\Modulo 3-Pree\Mandaditos\Application\bin\Debug\net7.0\Application.pdb
+d:\Escritorio\Modulo 3-Pree\Mandaditos\Application\bin\Debug\net7.0\Domain.dll
+d:\Escritorio\Modulo 3-Pree\Mandaditos\Application\bin\Debug\net7.0\Domain.pdb
+d:\Escritorio\Modulo 3-Pree\Mandaditos\Application\obj\Debug\net7.0\Application.csproj.AssemblyReference.cache
+d:\Escritorio\Modulo 3-Pree\Mandaditos\Application\obj\Debug\net7.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+d:\Escritorio\Modulo 3-Pree\Mandaditos\Application\obj\Debug\net7.0\Application.AssemblyInfoInputs.cache
+d:\Escritorio\Modulo 3-Pree\Mandaditos\Application\obj\Debug\net7.0\Application.AssemblyInfo.cs
+d:\Escritorio\Modulo 3-Pree\Mandaditos\Application\obj\Debug\net7.0\Application.csproj.CoreCompileInputs.cache
+d:\Escritorio\Modulo 3-Pree\Mandaditos\Application\obj\Debug\net7.0\Application.csproj.CopyComplete
+d:\Escritorio\Modulo 3-Pree\Mandaditos\Application\obj\Debug\net7.0\Application.dll
+d:\Escritorio\Modulo 3-Pree\Mandaditos\Application\obj\Debug\net7.0\refint\Application.dll
+d:\Escritorio\Modulo 3-Pree\Mandaditos\Application\obj\Debug\net7.0\Application.pdb
+d:\Escritorio\Modulo 3-Pree\Mandaditos\Application\obj\Debug\net7.0\ref\Application.dll
+D:\Escritorio\Modulo 3-Pree\MandaditosTarea\Application\bin\Debug\net7.0\Application.deps.json
+D:\Escritorio\Modulo 3-Pree\MandaditosTarea\Application\bin\Debug\net7.0\Application.dll
+D:\Escritorio\Modulo 3-Pree\MandaditosTarea\Application\bin\Debug\net7.0\Application.pdb
+D:\Escritorio\Modulo 3-Pree\MandaditosTarea\Application\bin\Debug\net7.0\Domain.dll
+D:\Escritorio\Modulo 3-Pree\MandaditosTarea\Application\bin\Debug\net7.0\Domain.pdb
+D:\Escritorio\Modulo 3-Pree\MandaditosTarea\Application\obj\Debug\net7.0\Application.csproj.AssemblyReference.cache
+D:\Escritorio\Modulo 3-Pree\MandaditosTarea\Application\obj\Debug\net7.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\Modulo 3-Pree\MandaditosTarea\Application\obj\Debug\net7.0\Application.AssemblyInfoInputs.cache
+D:\Escritorio\Modulo 3-Pree\MandaditosTarea\Application\obj\Debug\net7.0\Application.AssemblyInfo.cs
+D:\Escritorio\Modulo 3-Pree\MandaditosTarea\Application\obj\Debug\net7.0\Application.csproj.CoreCompileInputs.cache
+D:\Escritorio\Modulo 3-Pree\MandaditosTarea\Application\obj\Debug\net7.0\Application.csproj.CopyComplete
+D:\Escritorio\Modulo 3-Pree\MandaditosTarea\Application\obj\Debug\net7.0\Application.dll
+D:\Escritorio\Modulo 3-Pree\MandaditosTarea\Application\obj\Debug\net7.0\refint\Application.dll
+D:\Escritorio\Modulo 3-Pree\MandaditosTarea\Application\obj\Debug\net7.0\Application.pdb
+D:\Escritorio\Modulo 3-Pree\MandaditosTarea\Application\obj\Debug\net7.0\ref\Application.dll
+D:\Escritorio\Modulo 3-Pree\TravelExplorer\Application\bin\Debug\net7.0\Application.deps.json
+D:\Escritorio\Modulo 3-Pree\TravelExplorer\Application\bin\Debug\net7.0\Application.dll
+D:\Escritorio\Modulo 3-Pree\TravelExplorer\Application\bin\Debug\net7.0\Application.pdb
+D:\Escritorio\Modulo 3-Pree\TravelExplorer\Application\bin\Debug\net7.0\Domain.dll
+D:\Escritorio\Modulo 3-Pree\TravelExplorer\Application\bin\Debug\net7.0\Domain.pdb
+D:\Escritorio\Modulo 3-Pree\TravelExplorer\Application\obj\Debug\net7.0\Application.csproj.AssemblyReference.cache
+D:\Escritorio\Modulo 3-Pree\TravelExplorer\Application\obj\Debug\net7.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\Modulo 3-Pree\TravelExplorer\Application\obj\Debug\net7.0\Application.AssemblyInfoInputs.cache
+D:\Escritorio\Modulo 3-Pree\TravelExplorer\Application\obj\Debug\net7.0\Application.AssemblyInfo.cs
+D:\Escritorio\Modulo 3-Pree\TravelExplorer\Application\obj\Debug\net7.0\Application.csproj.CoreCompileInputs.cache
+D:\Escritorio\Modulo 3-Pree\TravelExplorer\Application\obj\Debug\net7.0\Application.csproj.CopyComplete
+D:\Escritorio\Modulo 3-Pree\TravelExplorer\Application\obj\Debug\net7.0\Application.dll
+D:\Escritorio\Modulo 3-Pree\TravelExplorer\Application\obj\Debug\net7.0\refint\Application.dll
+D:\Escritorio\Modulo 3-Pree\TravelExplorer\Application\obj\Debug\net7.0\Application.pdb
+D:\Escritorio\Modulo 3-Pree\TravelExplorer\Application\obj\Debug\net7.0\ref\Application.dll
+D:\Escritorio\Modulo 3-Pree\TravelExplorer _Respaldo\Application\bin\Debug\net7.0\Application.deps.json
+D:\Escritorio\Modulo 3-Pree\TravelExplorer _Respaldo\Application\bin\Debug\net7.0\Application.dll
+D:\Escritorio\Modulo 3-Pree\TravelExplorer _Respaldo\Application\bin\Debug\net7.0\Application.pdb
+D:\Escritorio\Modulo 3-Pree\TravelExplorer _Respaldo\Application\bin\Debug\net7.0\Domain.dll
+D:\Escritorio\Modulo 3-Pree\TravelExplorer _Respaldo\Application\bin\Debug\net7.0\Domain.pdb
+D:\Escritorio\Modulo 3-Pree\TravelExplorer _Respaldo\Application\obj\Debug\net7.0\Application.csproj.AssemblyReference.cache
+D:\Escritorio\Modulo 3-Pree\TravelExplorer _Respaldo\Application\obj\Debug\net7.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\Modulo 3-Pree\TravelExplorer _Respaldo\Application\obj\Debug\net7.0\Application.AssemblyInfoInputs.cache
+D:\Escritorio\Modulo 3-Pree\TravelExplorer _Respaldo\Application\obj\Debug\net7.0\Application.AssemblyInfo.cs
+D:\Escritorio\Modulo 3-Pree\TravelExplorer _Respaldo\Application\obj\Debug\net7.0\Application.csproj.CoreCompileInputs.cache
+D:\Escritorio\Modulo 3-Pree\TravelExplorer _Respaldo\Application\obj\Debug\net7.0\Application.csproj.CopyComplete
+D:\Escritorio\Modulo 3-Pree\TravelExplorer _Respaldo\Application\obj\Debug\net7.0\Application.dll
+D:\Escritorio\Modulo 3-Pree\TravelExplorer _Respaldo\Application\obj\Debug\net7.0\refint\Application.dll
+D:\Escritorio\Modulo 3-Pree\TravelExplorer _Respaldo\Application\obj\Debug\net7.0\Application.pdb
+D:\Escritorio\Modulo 3-Pree\TravelExplorer _Respaldo\Application\obj\Debug\net7.0\ref\Application.dll
+C:\laragon\www\TravelExplorer\Application\bin\Debug\net7.0\Application.deps.json
+C:\laragon\www\TravelExplorer\Application\bin\Debug\net7.0\Application.dll
+C:\laragon\www\TravelExplorer\Application\bin\Debug\net7.0\Application.pdb
+C:\laragon\www\TravelExplorer\Application\bin\Debug\net7.0\Domain.dll
+C:\laragon\www\TravelExplorer\Application\bin\Debug\net7.0\Domain.pdb
+C:\laragon\www\TravelExplorer\Application\obj\Debug\net7.0\Application.csproj.AssemblyReference.cache
+C:\laragon\www\TravelExplorer\Application\obj\Debug\net7.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\laragon\www\TravelExplorer\Application\obj\Debug\net7.0\Application.AssemblyInfoInputs.cache
+C:\laragon\www\TravelExplorer\Application\obj\Debug\net7.0\Application.AssemblyInfo.cs
+C:\laragon\www\TravelExplorer\Application\obj\Debug\net7.0\Application.csproj.CoreCompileInputs.cache
+C:\laragon\www\TravelExplorer\Application\obj\Debug\net7.0\Application.csproj.CopyComplete
+C:\laragon\www\TravelExplorer\Application\obj\Debug\net7.0\Application.dll
+C:\laragon\www\TravelExplorer\Application\obj\Debug\net7.0\refint\Application.dll
+C:\laragon\www\TravelExplorer\Application\obj\Debug\net7.0\Application.pdb
+C:\laragon\www\TravelExplorer\Application\obj\Debug\net7.0\ref\Application.dll
+C:\Travel\TareaDDD\Application\bin\Debug\net7.0\Application.deps.json
+C:\Travel\TareaDDD\Application\bin\Debug\net7.0\Application.dll
+C:\Travel\TareaDDD\Application\bin\Debug\net7.0\Application.pdb
+C:\Travel\TareaDDD\Application\bin\Debug\net7.0\Domain.dll
+C:\Travel\TareaDDD\Application\bin\Debug\net7.0\Domain.pdb
+C:\Travel\TareaDDD\Application\obj\Debug\net7.0\Application.csproj.AssemblyReference.cache
+C:\Travel\TareaDDD\Application\obj\Debug\net7.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Travel\TareaDDD\Application\obj\Debug\net7.0\Application.AssemblyInfoInputs.cache
+C:\Travel\TareaDDD\Application\obj\Debug\net7.0\Application.AssemblyInfo.cs
+C:\Travel\TareaDDD\Application\obj\Debug\net7.0\Application.csproj.CoreCompileInputs.cache
+C:\Travel\TareaDDD\Application\obj\Debug\net7.0\Application.csproj.CopyComplete
+C:\Travel\TareaDDD\Application\obj\Debug\net7.0\Application.dll
+C:\Travel\TareaDDD\Application\obj\Debug\net7.0\refint\Application.dll
+C:\Travel\TareaDDD\Application\obj\Debug\net7.0\Application.pdb
+C:\Travel\TareaDDD\Application\obj\Debug\net7.0\ref\Application.dll

@@ -1,0 +1,440 @@
+d:\Escritorio\Modulo 3-Pree\TravelExplorer\Web.Api\bin\Debug\net7.0\appsettings.Development.json
+d:\Escritorio\Modulo 3-Pree\TravelExplorer\Web.Api\bin\Debug\net7.0\appsettings.json
+d:\Escritorio\Modulo 3-Pree\TravelExplorer\Web.Api\bin\Debug\net7.0\Web.Api.exe
+d:\Escritorio\Modulo 3-Pree\TravelExplorer\Web.Api\bin\Debug\net7.0\Web.Api.deps.json
+d:\Escritorio\Modulo 3-Pree\TravelExplorer\Web.Api\bin\Debug\net7.0\Web.Api.runtimeconfig.json
+d:\Escritorio\Modulo 3-Pree\TravelExplorer\Web.Api\bin\Debug\net7.0\Web.Api.dll
+d:\Escritorio\Modulo 3-Pree\TravelExplorer\Web.Api\bin\Debug\net7.0\Web.Api.pdb
+d:\Escritorio\Modulo 3-Pree\TravelExplorer\Web.Api\bin\Debug\net7.0\Azure.Core.dll
+d:\Escritorio\Modulo 3-Pree\TravelExplorer\Web.Api\bin\Debug\net7.0\Azure.Identity.dll
+d:\Escritorio\Modulo 3-Pree\TravelExplorer\Web.Api\bin\Debug\net7.0\ErrorOr.dll
+d:\Escritorio\Modulo 3-Pree\TravelExplorer\Web.Api\bin\Debug\net7.0\FluentValidation.dll
+d:\Escritorio\Modulo 3-Pree\TravelExplorer\Web.Api\bin\Debug\net7.0\FluentValidation.AspNetCore.dll
+d:\Escritorio\Modulo 3-Pree\TravelExplorer\Web.Api\bin\Debug\net7.0\FluentValidation.DependencyInjectionExtensions.dll
+d:\Escritorio\Modulo 3-Pree\TravelExplorer\Web.Api\bin\Debug\net7.0\Humanizer.dll
+d:\Escritorio\Modulo 3-Pree\TravelExplorer\Web.Api\bin\Debug\net7.0\MediatR.dll
+d:\Escritorio\Modulo 3-Pree\TravelExplorer\Web.Api\bin\Debug\net7.0\MediatR.Contracts.dll
+d:\Escritorio\Modulo 3-Pree\TravelExplorer\Web.Api\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+d:\Escritorio\Modulo 3-Pree\TravelExplorer\Web.Api\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+d:\Escritorio\Modulo 3-Pree\TravelExplorer\Web.Api\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+d:\Escritorio\Modulo 3-Pree\TravelExplorer\Web.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+d:\Escritorio\Modulo 3-Pree\TravelExplorer\Web.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+d:\Escritorio\Modulo 3-Pree\TravelExplorer\Web.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+d:\Escritorio\Modulo 3-Pree\TravelExplorer\Web.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+d:\Escritorio\Modulo 3-Pree\TravelExplorer\Web.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+d:\Escritorio\Modulo 3-Pree\TravelExplorer\Web.Api\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+d:\Escritorio\Modulo 3-Pree\TravelExplorer\Web.Api\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+d:\Escritorio\Modulo 3-Pree\TravelExplorer\Web.Api\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+d:\Escritorio\Modulo 3-Pree\TravelExplorer\Web.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+d:\Escritorio\Modulo 3-Pree\TravelExplorer\Web.Api\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+d:\Escritorio\Modulo 3-Pree\TravelExplorer\Web.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+d:\Escritorio\Modulo 3-Pree\TravelExplorer\Web.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+d:\Escritorio\Modulo 3-Pree\TravelExplorer\Web.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+d:\Escritorio\Modulo 3-Pree\TravelExplorer\Web.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+d:\Escritorio\Modulo 3-Pree\TravelExplorer\Web.Api\bin\Debug\net7.0\Microsoft.OpenApi.dll
+d:\Escritorio\Modulo 3-Pree\TravelExplorer\Web.Api\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+d:\Escritorio\Modulo 3-Pree\TravelExplorer\Web.Api\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+d:\Escritorio\Modulo 3-Pree\TravelExplorer\Web.Api\bin\Debug\net7.0\Mono.TextTemplating.dll
+d:\Escritorio\Modulo 3-Pree\TravelExplorer\Web.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+d:\Escritorio\Modulo 3-Pree\TravelExplorer\Web.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+d:\Escritorio\Modulo 3-Pree\TravelExplorer\Web.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+d:\Escritorio\Modulo 3-Pree\TravelExplorer\Web.Api\bin\Debug\net7.0\System.CodeDom.dll
+d:\Escritorio\Modulo 3-Pree\TravelExplorer\Web.Api\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+d:\Escritorio\Modulo 3-Pree\TravelExplorer\Web.Api\bin\Debug\net7.0\System.Drawing.Common.dll
+d:\Escritorio\Modulo 3-Pree\TravelExplorer\Web.Api\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+d:\Escritorio\Modulo 3-Pree\TravelExplorer\Web.Api\bin\Debug\net7.0\System.Memory.Data.dll
+d:\Escritorio\Modulo 3-Pree\TravelExplorer\Web.Api\bin\Debug\net7.0\System.Runtime.Caching.dll
+d:\Escritorio\Modulo 3-Pree\TravelExplorer\Web.Api\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+d:\Escritorio\Modulo 3-Pree\TravelExplorer\Web.Api\bin\Debug\net7.0\System.Security.Permissions.dll
+d:\Escritorio\Modulo 3-Pree\TravelExplorer\Web.Api\bin\Debug\net7.0\System.Windows.Extensions.dll
+d:\Escritorio\Modulo 3-Pree\TravelExplorer\Web.Api\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+d:\Escritorio\Modulo 3-Pree\TravelExplorer\Web.Api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+d:\Escritorio\Modulo 3-Pree\TravelExplorer\Web.Api\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+d:\Escritorio\Modulo 3-Pree\TravelExplorer\Web.Api\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+d:\Escritorio\Modulo 3-Pree\TravelExplorer\Web.Api\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+d:\Escritorio\Modulo 3-Pree\TravelExplorer\Web.Api\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+d:\Escritorio\Modulo 3-Pree\TravelExplorer\Web.Api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+d:\Escritorio\Modulo 3-Pree\TravelExplorer\Web.Api\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+d:\Escritorio\Modulo 3-Pree\TravelExplorer\Web.Api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+d:\Escritorio\Modulo 3-Pree\TravelExplorer\Web.Api\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+d:\Escritorio\Modulo 3-Pree\TravelExplorer\Web.Api\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+d:\Escritorio\Modulo 3-Pree\TravelExplorer\Web.Api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+d:\Escritorio\Modulo 3-Pree\TravelExplorer\Web.Api\bin\Debug\net7.0\Application.dll
+d:\Escritorio\Modulo 3-Pree\TravelExplorer\Web.Api\bin\Debug\net7.0\Domain.dll
+d:\Escritorio\Modulo 3-Pree\TravelExplorer\Web.Api\bin\Debug\net7.0\Infrastructure.dll
+d:\Escritorio\Modulo 3-Pree\TravelExplorer\Web.Api\bin\Debug\net7.0\Application.pdb
+d:\Escritorio\Modulo 3-Pree\TravelExplorer\Web.Api\bin\Debug\net7.0\Infrastructure.pdb
+d:\Escritorio\Modulo 3-Pree\TravelExplorer\Web.Api\bin\Debug\net7.0\Domain.pdb
+d:\Escritorio\Modulo 3-Pree\TravelExplorer\Web.Api\obj\Debug\net7.0\Web.Api.csproj.AssemblyReference.cache
+d:\Escritorio\Modulo 3-Pree\TravelExplorer\Web.Api\obj\Debug\net7.0\Web.Api.GeneratedMSBuildEditorConfig.editorconfig
+d:\Escritorio\Modulo 3-Pree\TravelExplorer\Web.Api\obj\Debug\net7.0\Web.Api.AssemblyInfoInputs.cache
+d:\Escritorio\Modulo 3-Pree\TravelExplorer\Web.Api\obj\Debug\net7.0\Web.Api.AssemblyInfo.cs
+d:\Escritorio\Modulo 3-Pree\TravelExplorer\Web.Api\obj\Debug\net7.0\Web.Api.csproj.CoreCompileInputs.cache
+d:\Escritorio\Modulo 3-Pree\TravelExplorer\Web.Api\obj\Debug\net7.0\Web.Api.MvcApplicationPartsAssemblyInfo.cs
+d:\Escritorio\Modulo 3-Pree\TravelExplorer\Web.Api\obj\Debug\net7.0\Web.Api.MvcApplicationPartsAssemblyInfo.cache
+d:\Escritorio\Modulo 3-Pree\TravelExplorer\Web.Api\obj\Debug\net7.0\staticwebassets\msbuild.Web.Api.Microsoft.AspNetCore.StaticWebAssets.props
+d:\Escritorio\Modulo 3-Pree\TravelExplorer\Web.Api\obj\Debug\net7.0\staticwebassets\msbuild.build.Web.Api.props
+d:\Escritorio\Modulo 3-Pree\TravelExplorer\Web.Api\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Web.Api.props
+d:\Escritorio\Modulo 3-Pree\TravelExplorer\Web.Api\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Web.Api.props
+d:\Escritorio\Modulo 3-Pree\TravelExplorer\Web.Api\obj\Debug\net7.0\staticwebassets.pack.json
+d:\Escritorio\Modulo 3-Pree\TravelExplorer\Web.Api\obj\Debug\net7.0\staticwebassets.build.json
+d:\Escritorio\Modulo 3-Pree\TravelExplorer\Web.Api\obj\Debug\net7.0\staticwebassets.development.json
+d:\Escritorio\Modulo 3-Pree\TravelExplorer\Web.Api\obj\Debug\net7.0\scopedcss\bundle\Web.Api.styles.css
+d:\Escritorio\Modulo 3-Pree\TravelExplorer\Web.Api\obj\Debug\net7.0\Web.Api.csproj.CopyComplete
+d:\Escritorio\Modulo 3-Pree\TravelExplorer\Web.Api\obj\Debug\net7.0\Web.Api.dll
+d:\Escritorio\Modulo 3-Pree\TravelExplorer\Web.Api\obj\Debug\net7.0\refint\Web.Api.dll
+d:\Escritorio\Modulo 3-Pree\TravelExplorer\Web.Api\obj\Debug\net7.0\Web.Api.pdb
+d:\Escritorio\Modulo 3-Pree\TravelExplorer\Web.Api\obj\Debug\net7.0\Web.Api.genruntimeconfig.cache
+d:\Escritorio\Modulo 3-Pree\TravelExplorer\Web.Api\obj\Debug\net7.0\ref\Web.Api.dll
+D:\Escritorio\Modulo 3-Pree\TravelExplorerTarea\Web.Api\bin\Debug\net7.0\appsettings.json
+D:\Escritorio\Modulo 3-Pree\TravelExplorerTarea\Web.Api\bin\Debug\net7.0\appsettings.Development.json
+D:\Escritorio\Modulo 3-Pree\TravelExplorerTarea\Web.Api\bin\Debug\net7.0\Web.Api.exe
+D:\Escritorio\Modulo 3-Pree\TravelExplorerTarea\Web.Api\bin\Debug\net7.0\Web.Api.deps.json
+D:\Escritorio\Modulo 3-Pree\TravelExplorerTarea\Web.Api\bin\Debug\net7.0\Web.Api.runtimeconfig.json
+D:\Escritorio\Modulo 3-Pree\TravelExplorerTarea\Web.Api\bin\Debug\net7.0\Web.Api.dll
+D:\Escritorio\Modulo 3-Pree\TravelExplorerTarea\Web.Api\bin\Debug\net7.0\Web.Api.pdb
+D:\Escritorio\Modulo 3-Pree\TravelExplorerTarea\Web.Api\bin\Debug\net7.0\Azure.Core.dll
+D:\Escritorio\Modulo 3-Pree\TravelExplorerTarea\Web.Api\bin\Debug\net7.0\Azure.Identity.dll
+D:\Escritorio\Modulo 3-Pree\TravelExplorerTarea\Web.Api\bin\Debug\net7.0\ErrorOr.dll
+D:\Escritorio\Modulo 3-Pree\TravelExplorerTarea\Web.Api\bin\Debug\net7.0\FluentValidation.dll
+D:\Escritorio\Modulo 3-Pree\TravelExplorerTarea\Web.Api\bin\Debug\net7.0\FluentValidation.AspNetCore.dll
+D:\Escritorio\Modulo 3-Pree\TravelExplorerTarea\Web.Api\bin\Debug\net7.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\Escritorio\Modulo 3-Pree\TravelExplorerTarea\Web.Api\bin\Debug\net7.0\Humanizer.dll
+D:\Escritorio\Modulo 3-Pree\TravelExplorerTarea\Web.Api\bin\Debug\net7.0\MediatR.dll
+D:\Escritorio\Modulo 3-Pree\TravelExplorerTarea\Web.Api\bin\Debug\net7.0\MediatR.Contracts.dll
+D:\Escritorio\Modulo 3-Pree\TravelExplorerTarea\Web.Api\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Escritorio\Modulo 3-Pree\TravelExplorerTarea\Web.Api\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Escritorio\Modulo 3-Pree\TravelExplorerTarea\Web.Api\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\Escritorio\Modulo 3-Pree\TravelExplorerTarea\Web.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Escritorio\Modulo 3-Pree\TravelExplorerTarea\Web.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Escritorio\Modulo 3-Pree\TravelExplorerTarea\Web.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Escritorio\Modulo 3-Pree\TravelExplorerTarea\Web.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Escritorio\Modulo 3-Pree\TravelExplorerTarea\Web.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Escritorio\Modulo 3-Pree\TravelExplorerTarea\Web.Api\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Escritorio\Modulo 3-Pree\TravelExplorerTarea\Web.Api\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\Escritorio\Modulo 3-Pree\TravelExplorerTarea\Web.Api\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Escritorio\Modulo 3-Pree\TravelExplorerTarea\Web.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Escritorio\Modulo 3-Pree\TravelExplorerTarea\Web.Api\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Escritorio\Modulo 3-Pree\TravelExplorerTarea\Web.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Escritorio\Modulo 3-Pree\TravelExplorerTarea\Web.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Escritorio\Modulo 3-Pree\TravelExplorerTarea\Web.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Escritorio\Modulo 3-Pree\TravelExplorerTarea\Web.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Escritorio\Modulo 3-Pree\TravelExplorerTarea\Web.Api\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\Escritorio\Modulo 3-Pree\TravelExplorerTarea\Web.Api\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\Escritorio\Modulo 3-Pree\TravelExplorerTarea\Web.Api\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Escritorio\Modulo 3-Pree\TravelExplorerTarea\Web.Api\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\Escritorio\Modulo 3-Pree\TravelExplorerTarea\Web.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Escritorio\Modulo 3-Pree\TravelExplorerTarea\Web.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Escritorio\Modulo 3-Pree\TravelExplorerTarea\Web.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Escritorio\Modulo 3-Pree\TravelExplorerTarea\Web.Api\bin\Debug\net7.0\System.CodeDom.dll
+D:\Escritorio\Modulo 3-Pree\TravelExplorerTarea\Web.Api\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Escritorio\Modulo 3-Pree\TravelExplorerTarea\Web.Api\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Escritorio\Modulo 3-Pree\TravelExplorerTarea\Web.Api\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Escritorio\Modulo 3-Pree\TravelExplorerTarea\Web.Api\bin\Debug\net7.0\System.Memory.Data.dll
+D:\Escritorio\Modulo 3-Pree\TravelExplorerTarea\Web.Api\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\Escritorio\Modulo 3-Pree\TravelExplorerTarea\Web.Api\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Escritorio\Modulo 3-Pree\TravelExplorerTarea\Web.Api\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Escritorio\Modulo 3-Pree\TravelExplorerTarea\Web.Api\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Escritorio\Modulo 3-Pree\TravelExplorerTarea\Web.Api\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Escritorio\Modulo 3-Pree\TravelExplorerTarea\Web.Api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Escritorio\Modulo 3-Pree\TravelExplorerTarea\Web.Api\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Escritorio\Modulo 3-Pree\TravelExplorerTarea\Web.Api\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Escritorio\Modulo 3-Pree\TravelExplorerTarea\Web.Api\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Escritorio\Modulo 3-Pree\TravelExplorerTarea\Web.Api\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Escritorio\Modulo 3-Pree\TravelExplorerTarea\Web.Api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Escritorio\Modulo 3-Pree\TravelExplorerTarea\Web.Api\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Escritorio\Modulo 3-Pree\TravelExplorerTarea\Web.Api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Escritorio\Modulo 3-Pree\TravelExplorerTarea\Web.Api\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Escritorio\Modulo 3-Pree\TravelExplorerTarea\Web.Api\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Escritorio\Modulo 3-Pree\TravelExplorerTarea\Web.Api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Escritorio\Modulo 3-Pree\TravelExplorerTarea\Web.Api\bin\Debug\net7.0\Application.dll
+D:\Escritorio\Modulo 3-Pree\TravelExplorerTarea\Web.Api\bin\Debug\net7.0\Domain.dll
+D:\Escritorio\Modulo 3-Pree\TravelExplorerTarea\Web.Api\bin\Debug\net7.0\Infrastructure.dll
+D:\Escritorio\Modulo 3-Pree\TravelExplorerTarea\Web.Api\bin\Debug\net7.0\Application.pdb
+D:\Escritorio\Modulo 3-Pree\TravelExplorerTarea\Web.Api\bin\Debug\net7.0\Infrastructure.pdb
+D:\Escritorio\Modulo 3-Pree\TravelExplorerTarea\Web.Api\bin\Debug\net7.0\Domain.pdb
+D:\Escritorio\Modulo 3-Pree\TravelExplorerTarea\Web.Api\obj\Debug\net7.0\Web.Api.csproj.AssemblyReference.cache
+D:\Escritorio\Modulo 3-Pree\TravelExplorerTarea\Web.Api\obj\Debug\net7.0\Web.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\Modulo 3-Pree\TravelExplorerTarea\Web.Api\obj\Debug\net7.0\Web.Api.AssemblyInfoInputs.cache
+D:\Escritorio\Modulo 3-Pree\TravelExplorerTarea\Web.Api\obj\Debug\net7.0\Web.Api.AssemblyInfo.cs
+D:\Escritorio\Modulo 3-Pree\TravelExplorerTarea\Web.Api\obj\Debug\net7.0\Web.Api.csproj.CoreCompileInputs.cache
+D:\Escritorio\Modulo 3-Pree\TravelExplorerTarea\Web.Api\obj\Debug\net7.0\Web.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\Escritorio\Modulo 3-Pree\TravelExplorerTarea\Web.Api\obj\Debug\net7.0\Web.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\Escritorio\Modulo 3-Pree\TravelExplorerTarea\Web.Api\obj\Debug\net7.0\staticwebassets\msbuild.Web.Api.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Escritorio\Modulo 3-Pree\TravelExplorerTarea\Web.Api\obj\Debug\net7.0\staticwebassets\msbuild.build.Web.Api.props
+D:\Escritorio\Modulo 3-Pree\TravelExplorerTarea\Web.Api\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Web.Api.props
+D:\Escritorio\Modulo 3-Pree\TravelExplorerTarea\Web.Api\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Web.Api.props
+D:\Escritorio\Modulo 3-Pree\TravelExplorerTarea\Web.Api\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Escritorio\Modulo 3-Pree\TravelExplorerTarea\Web.Api\obj\Debug\net7.0\staticwebassets.build.json
+D:\Escritorio\Modulo 3-Pree\TravelExplorerTarea\Web.Api\obj\Debug\net7.0\staticwebassets.development.json
+D:\Escritorio\Modulo 3-Pree\TravelExplorerTarea\Web.Api\obj\Debug\net7.0\scopedcss\bundle\Web.Api.styles.css
+D:\Escritorio\Modulo 3-Pree\TravelExplorerTarea\Web.Api\obj\Debug\net7.0\Web.Api.csproj.CopyComplete
+D:\Escritorio\Modulo 3-Pree\TravelExplorerTarea\Web.Api\obj\Debug\net7.0\Web.Api.dll
+D:\Escritorio\Modulo 3-Pree\TravelExplorerTarea\Web.Api\obj\Debug\net7.0\refint\Web.Api.dll
+D:\Escritorio\Modulo 3-Pree\TravelExplorerTarea\Web.Api\obj\Debug\net7.0\Web.Api.pdb
+D:\Escritorio\Modulo 3-Pree\TravelExplorerTarea\Web.Api\obj\Debug\net7.0\Web.Api.genruntimeconfig.cache
+D:\Escritorio\Modulo 3-Pree\TravelExplorerTarea\Web.Api\obj\Debug\net7.0\ref\Web.Api.dll
+D:\Escritorio\Modulo 3-Pree\TravelExplorer _Respaldo\Web.Api\bin\Debug\net7.0\appsettings.Development.json
+D:\Escritorio\Modulo 3-Pree\TravelExplorer _Respaldo\Web.Api\bin\Debug\net7.0\appsettings.json
+D:\Escritorio\Modulo 3-Pree\TravelExplorer _Respaldo\Web.Api\bin\Debug\net7.0\Web.Api.exe
+D:\Escritorio\Modulo 3-Pree\TravelExplorer _Respaldo\Web.Api\bin\Debug\net7.0\Web.Api.deps.json
+D:\Escritorio\Modulo 3-Pree\TravelExplorer _Respaldo\Web.Api\bin\Debug\net7.0\Web.Api.runtimeconfig.json
+D:\Escritorio\Modulo 3-Pree\TravelExplorer _Respaldo\Web.Api\bin\Debug\net7.0\Web.Api.dll
+D:\Escritorio\Modulo 3-Pree\TravelExplorer _Respaldo\Web.Api\bin\Debug\net7.0\Web.Api.pdb
+D:\Escritorio\Modulo 3-Pree\TravelExplorer _Respaldo\Web.Api\bin\Debug\net7.0\Azure.Core.dll
+D:\Escritorio\Modulo 3-Pree\TravelExplorer _Respaldo\Web.Api\bin\Debug\net7.0\Azure.Identity.dll
+D:\Escritorio\Modulo 3-Pree\TravelExplorer _Respaldo\Web.Api\bin\Debug\net7.0\ErrorOr.dll
+D:\Escritorio\Modulo 3-Pree\TravelExplorer _Respaldo\Web.Api\bin\Debug\net7.0\FluentValidation.dll
+D:\Escritorio\Modulo 3-Pree\TravelExplorer _Respaldo\Web.Api\bin\Debug\net7.0\FluentValidation.AspNetCore.dll
+D:\Escritorio\Modulo 3-Pree\TravelExplorer _Respaldo\Web.Api\bin\Debug\net7.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\Escritorio\Modulo 3-Pree\TravelExplorer _Respaldo\Web.Api\bin\Debug\net7.0\Humanizer.dll
+D:\Escritorio\Modulo 3-Pree\TravelExplorer _Respaldo\Web.Api\bin\Debug\net7.0\MediatR.dll
+D:\Escritorio\Modulo 3-Pree\TravelExplorer _Respaldo\Web.Api\bin\Debug\net7.0\MediatR.Contracts.dll
+D:\Escritorio\Modulo 3-Pree\TravelExplorer _Respaldo\Web.Api\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Escritorio\Modulo 3-Pree\TravelExplorer _Respaldo\Web.Api\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Escritorio\Modulo 3-Pree\TravelExplorer _Respaldo\Web.Api\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\Escritorio\Modulo 3-Pree\TravelExplorer _Respaldo\Web.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Escritorio\Modulo 3-Pree\TravelExplorer _Respaldo\Web.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Escritorio\Modulo 3-Pree\TravelExplorer _Respaldo\Web.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Escritorio\Modulo 3-Pree\TravelExplorer _Respaldo\Web.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Escritorio\Modulo 3-Pree\TravelExplorer _Respaldo\Web.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Escritorio\Modulo 3-Pree\TravelExplorer _Respaldo\Web.Api\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Escritorio\Modulo 3-Pree\TravelExplorer _Respaldo\Web.Api\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\Escritorio\Modulo 3-Pree\TravelExplorer _Respaldo\Web.Api\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Escritorio\Modulo 3-Pree\TravelExplorer _Respaldo\Web.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Escritorio\Modulo 3-Pree\TravelExplorer _Respaldo\Web.Api\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Escritorio\Modulo 3-Pree\TravelExplorer _Respaldo\Web.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Escritorio\Modulo 3-Pree\TravelExplorer _Respaldo\Web.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Escritorio\Modulo 3-Pree\TravelExplorer _Respaldo\Web.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Escritorio\Modulo 3-Pree\TravelExplorer _Respaldo\Web.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Escritorio\Modulo 3-Pree\TravelExplorer _Respaldo\Web.Api\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\Escritorio\Modulo 3-Pree\TravelExplorer _Respaldo\Web.Api\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\Escritorio\Modulo 3-Pree\TravelExplorer _Respaldo\Web.Api\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Escritorio\Modulo 3-Pree\TravelExplorer _Respaldo\Web.Api\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\Escritorio\Modulo 3-Pree\TravelExplorer _Respaldo\Web.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Escritorio\Modulo 3-Pree\TravelExplorer _Respaldo\Web.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Escritorio\Modulo 3-Pree\TravelExplorer _Respaldo\Web.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Escritorio\Modulo 3-Pree\TravelExplorer _Respaldo\Web.Api\bin\Debug\net7.0\System.CodeDom.dll
+D:\Escritorio\Modulo 3-Pree\TravelExplorer _Respaldo\Web.Api\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Escritorio\Modulo 3-Pree\TravelExplorer _Respaldo\Web.Api\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Escritorio\Modulo 3-Pree\TravelExplorer _Respaldo\Web.Api\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Escritorio\Modulo 3-Pree\TravelExplorer _Respaldo\Web.Api\bin\Debug\net7.0\System.Memory.Data.dll
+D:\Escritorio\Modulo 3-Pree\TravelExplorer _Respaldo\Web.Api\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\Escritorio\Modulo 3-Pree\TravelExplorer _Respaldo\Web.Api\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Escritorio\Modulo 3-Pree\TravelExplorer _Respaldo\Web.Api\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Escritorio\Modulo 3-Pree\TravelExplorer _Respaldo\Web.Api\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Escritorio\Modulo 3-Pree\TravelExplorer _Respaldo\Web.Api\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Escritorio\Modulo 3-Pree\TravelExplorer _Respaldo\Web.Api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Escritorio\Modulo 3-Pree\TravelExplorer _Respaldo\Web.Api\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Escritorio\Modulo 3-Pree\TravelExplorer _Respaldo\Web.Api\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Escritorio\Modulo 3-Pree\TravelExplorer _Respaldo\Web.Api\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Escritorio\Modulo 3-Pree\TravelExplorer _Respaldo\Web.Api\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Escritorio\Modulo 3-Pree\TravelExplorer _Respaldo\Web.Api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Escritorio\Modulo 3-Pree\TravelExplorer _Respaldo\Web.Api\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Escritorio\Modulo 3-Pree\TravelExplorer _Respaldo\Web.Api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Escritorio\Modulo 3-Pree\TravelExplorer _Respaldo\Web.Api\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Escritorio\Modulo 3-Pree\TravelExplorer _Respaldo\Web.Api\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Escritorio\Modulo 3-Pree\TravelExplorer _Respaldo\Web.Api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Escritorio\Modulo 3-Pree\TravelExplorer _Respaldo\Web.Api\bin\Debug\net7.0\Application.dll
+D:\Escritorio\Modulo 3-Pree\TravelExplorer _Respaldo\Web.Api\bin\Debug\net7.0\Domain.dll
+D:\Escritorio\Modulo 3-Pree\TravelExplorer _Respaldo\Web.Api\bin\Debug\net7.0\Infrastructure.dll
+D:\Escritorio\Modulo 3-Pree\TravelExplorer _Respaldo\Web.Api\bin\Debug\net7.0\Application.pdb
+D:\Escritorio\Modulo 3-Pree\TravelExplorer _Respaldo\Web.Api\bin\Debug\net7.0\Infrastructure.pdb
+D:\Escritorio\Modulo 3-Pree\TravelExplorer _Respaldo\Web.Api\bin\Debug\net7.0\Domain.pdb
+D:\Escritorio\Modulo 3-Pree\TravelExplorer _Respaldo\Web.Api\obj\Debug\net7.0\Web.Api.csproj.AssemblyReference.cache
+D:\Escritorio\Modulo 3-Pree\TravelExplorer _Respaldo\Web.Api\obj\Debug\net7.0\Web.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\Modulo 3-Pree\TravelExplorer _Respaldo\Web.Api\obj\Debug\net7.0\Web.Api.AssemblyInfoInputs.cache
+D:\Escritorio\Modulo 3-Pree\TravelExplorer _Respaldo\Web.Api\obj\Debug\net7.0\Web.Api.AssemblyInfo.cs
+D:\Escritorio\Modulo 3-Pree\TravelExplorer _Respaldo\Web.Api\obj\Debug\net7.0\Web.Api.csproj.CoreCompileInputs.cache
+D:\Escritorio\Modulo 3-Pree\TravelExplorer _Respaldo\Web.Api\obj\Debug\net7.0\Web.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\Escritorio\Modulo 3-Pree\TravelExplorer _Respaldo\Web.Api\obj\Debug\net7.0\Web.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\Escritorio\Modulo 3-Pree\TravelExplorer _Respaldo\Web.Api\obj\Debug\net7.0\staticwebassets\msbuild.Web.Api.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Escritorio\Modulo 3-Pree\TravelExplorer _Respaldo\Web.Api\obj\Debug\net7.0\staticwebassets\msbuild.build.Web.Api.props
+D:\Escritorio\Modulo 3-Pree\TravelExplorer _Respaldo\Web.Api\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Web.Api.props
+D:\Escritorio\Modulo 3-Pree\TravelExplorer _Respaldo\Web.Api\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Web.Api.props
+D:\Escritorio\Modulo 3-Pree\TravelExplorer _Respaldo\Web.Api\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Escritorio\Modulo 3-Pree\TravelExplorer _Respaldo\Web.Api\obj\Debug\net7.0\staticwebassets.build.json
+D:\Escritorio\Modulo 3-Pree\TravelExplorer _Respaldo\Web.Api\obj\Debug\net7.0\staticwebassets.development.json
+D:\Escritorio\Modulo 3-Pree\TravelExplorer _Respaldo\Web.Api\obj\Debug\net7.0\scopedcss\bundle\Web.Api.styles.css
+D:\Escritorio\Modulo 3-Pree\TravelExplorer _Respaldo\Web.Api\obj\Debug\net7.0\Web.Api.csproj.CopyComplete
+D:\Escritorio\Modulo 3-Pree\TravelExplorer _Respaldo\Web.Api\obj\Debug\net7.0\Web.Api.dll
+D:\Escritorio\Modulo 3-Pree\TravelExplorer _Respaldo\Web.Api\obj\Debug\net7.0\refint\Web.Api.dll
+D:\Escritorio\Modulo 3-Pree\TravelExplorer _Respaldo\Web.Api\obj\Debug\net7.0\Web.Api.pdb
+D:\Escritorio\Modulo 3-Pree\TravelExplorer _Respaldo\Web.Api\obj\Debug\net7.0\Web.Api.genruntimeconfig.cache
+D:\Escritorio\Modulo 3-Pree\TravelExplorer _Respaldo\Web.Api\obj\Debug\net7.0\ref\Web.Api.dll
+C:\laragon\www\TravelExplorer\Web.API\bin\Debug\net7.0\appsettings.Development.json
+C:\laragon\www\TravelExplorer\Web.API\bin\Debug\net7.0\appsettings.json
+C:\laragon\www\TravelExplorer\Web.API\bin\Debug\net7.0\Web.Api.exe
+C:\laragon\www\TravelExplorer\Web.API\bin\Debug\net7.0\Web.Api.deps.json
+C:\laragon\www\TravelExplorer\Web.API\bin\Debug\net7.0\Web.Api.runtimeconfig.json
+C:\laragon\www\TravelExplorer\Web.API\bin\Debug\net7.0\Web.Api.dll
+C:\laragon\www\TravelExplorer\Web.API\bin\Debug\net7.0\Web.Api.pdb
+C:\laragon\www\TravelExplorer\Web.API\bin\Debug\net7.0\Azure.Core.dll
+C:\laragon\www\TravelExplorer\Web.API\bin\Debug\net7.0\Azure.Identity.dll
+C:\laragon\www\TravelExplorer\Web.API\bin\Debug\net7.0\ErrorOr.dll
+C:\laragon\www\TravelExplorer\Web.API\bin\Debug\net7.0\FluentValidation.dll
+C:\laragon\www\TravelExplorer\Web.API\bin\Debug\net7.0\FluentValidation.AspNetCore.dll
+C:\laragon\www\TravelExplorer\Web.API\bin\Debug\net7.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\laragon\www\TravelExplorer\Web.API\bin\Debug\net7.0\Humanizer.dll
+C:\laragon\www\TravelExplorer\Web.API\bin\Debug\net7.0\MediatR.dll
+C:\laragon\www\TravelExplorer\Web.API\bin\Debug\net7.0\MediatR.Contracts.dll
+C:\laragon\www\TravelExplorer\Web.API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\laragon\www\TravelExplorer\Web.API\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\laragon\www\TravelExplorer\Web.API\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\laragon\www\TravelExplorer\Web.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\laragon\www\TravelExplorer\Web.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\laragon\www\TravelExplorer\Web.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\laragon\www\TravelExplorer\Web.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\laragon\www\TravelExplorer\Web.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\laragon\www\TravelExplorer\Web.API\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\laragon\www\TravelExplorer\Web.API\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\laragon\www\TravelExplorer\Web.API\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\laragon\www\TravelExplorer\Web.API\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\laragon\www\TravelExplorer\Web.API\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\laragon\www\TravelExplorer\Web.API\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\laragon\www\TravelExplorer\Web.API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\laragon\www\TravelExplorer\Web.API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\laragon\www\TravelExplorer\Web.API\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\laragon\www\TravelExplorer\Web.API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\laragon\www\TravelExplorer\Web.API\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\laragon\www\TravelExplorer\Web.API\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\laragon\www\TravelExplorer\Web.API\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\laragon\www\TravelExplorer\Web.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\laragon\www\TravelExplorer\Web.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\laragon\www\TravelExplorer\Web.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\laragon\www\TravelExplorer\Web.API\bin\Debug\net7.0\System.CodeDom.dll
+C:\laragon\www\TravelExplorer\Web.API\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\laragon\www\TravelExplorer\Web.API\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\laragon\www\TravelExplorer\Web.API\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\laragon\www\TravelExplorer\Web.API\bin\Debug\net7.0\System.Memory.Data.dll
+C:\laragon\www\TravelExplorer\Web.API\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\laragon\www\TravelExplorer\Web.API\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\laragon\www\TravelExplorer\Web.API\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\laragon\www\TravelExplorer\Web.API\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\laragon\www\TravelExplorer\Web.API\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\laragon\www\TravelExplorer\Web.API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\laragon\www\TravelExplorer\Web.API\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\laragon\www\TravelExplorer\Web.API\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\laragon\www\TravelExplorer\Web.API\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\laragon\www\TravelExplorer\Web.API\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\laragon\www\TravelExplorer\Web.API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\laragon\www\TravelExplorer\Web.API\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\laragon\www\TravelExplorer\Web.API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\laragon\www\TravelExplorer\Web.API\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\laragon\www\TravelExplorer\Web.API\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\laragon\www\TravelExplorer\Web.API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\laragon\www\TravelExplorer\Web.API\bin\Debug\net7.0\Application.dll
+C:\laragon\www\TravelExplorer\Web.API\bin\Debug\net7.0\Domain.dll
+C:\laragon\www\TravelExplorer\Web.API\bin\Debug\net7.0\Infrastructure.dll
+C:\laragon\www\TravelExplorer\Web.API\bin\Debug\net7.0\Application.pdb
+C:\laragon\www\TravelExplorer\Web.API\bin\Debug\net7.0\Infrastructure.pdb
+C:\laragon\www\TravelExplorer\Web.API\bin\Debug\net7.0\Domain.pdb
+C:\laragon\www\TravelExplorer\Web.API\obj\Debug\net7.0\Web.Api.csproj.AssemblyReference.cache
+C:\laragon\www\TravelExplorer\Web.API\obj\Debug\net7.0\Web.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\laragon\www\TravelExplorer\Web.API\obj\Debug\net7.0\Web.Api.AssemblyInfoInputs.cache
+C:\laragon\www\TravelExplorer\Web.API\obj\Debug\net7.0\Web.Api.AssemblyInfo.cs
+C:\laragon\www\TravelExplorer\Web.API\obj\Debug\net7.0\Web.Api.csproj.CoreCompileInputs.cache
+C:\laragon\www\TravelExplorer\Web.API\obj\Debug\net7.0\Web.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\laragon\www\TravelExplorer\Web.API\obj\Debug\net7.0\Web.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\laragon\www\TravelExplorer\Web.API\obj\Debug\net7.0\staticwebassets\msbuild.Web.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\laragon\www\TravelExplorer\Web.API\obj\Debug\net7.0\staticwebassets\msbuild.build.Web.Api.props
+C:\laragon\www\TravelExplorer\Web.API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Web.Api.props
+C:\laragon\www\TravelExplorer\Web.API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Web.Api.props
+C:\laragon\www\TravelExplorer\Web.API\obj\Debug\net7.0\staticwebassets.pack.json
+C:\laragon\www\TravelExplorer\Web.API\obj\Debug\net7.0\staticwebassets.build.json
+C:\laragon\www\TravelExplorer\Web.API\obj\Debug\net7.0\staticwebassets.development.json
+C:\laragon\www\TravelExplorer\Web.API\obj\Debug\net7.0\scopedcss\bundle\Web.Api.styles.css
+C:\laragon\www\TravelExplorer\Web.API\obj\Debug\net7.0\Web.Api.csproj.CopyComplete
+C:\laragon\www\TravelExplorer\Web.API\obj\Debug\net7.0\Web.Api.dll
+C:\laragon\www\TravelExplorer\Web.API\obj\Debug\net7.0\refint\Web.Api.dll
+C:\laragon\www\TravelExplorer\Web.API\obj\Debug\net7.0\Web.Api.pdb
+C:\laragon\www\TravelExplorer\Web.API\obj\Debug\net7.0\Web.Api.genruntimeconfig.cache
+C:\laragon\www\TravelExplorer\Web.API\obj\Debug\net7.0\ref\Web.Api.dll
+C:\Travel\TareaDDD\Web.Api\bin\Debug\net7.0\appsettings.json
+C:\Travel\TareaDDD\Web.Api\bin\Debug\net7.0\appsettings.Development.json
+C:\Travel\TareaDDD\Web.Api\bin\Debug\net7.0\Web.Api.exe
+C:\Travel\TareaDDD\Web.Api\bin\Debug\net7.0\Web.Api.deps.json
+C:\Travel\TareaDDD\Web.Api\bin\Debug\net7.0\Web.Api.runtimeconfig.json
+C:\Travel\TareaDDD\Web.Api\bin\Debug\net7.0\Web.Api.dll
+C:\Travel\TareaDDD\Web.Api\bin\Debug\net7.0\Web.Api.pdb
+C:\Travel\TareaDDD\Web.Api\bin\Debug\net7.0\Azure.Core.dll
+C:\Travel\TareaDDD\Web.Api\bin\Debug\net7.0\Azure.Identity.dll
+C:\Travel\TareaDDD\Web.Api\bin\Debug\net7.0\ErrorOr.dll
+C:\Travel\TareaDDD\Web.Api\bin\Debug\net7.0\FluentValidation.dll
+C:\Travel\TareaDDD\Web.Api\bin\Debug\net7.0\FluentValidation.AspNetCore.dll
+C:\Travel\TareaDDD\Web.Api\bin\Debug\net7.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Travel\TareaDDD\Web.Api\bin\Debug\net7.0\Humanizer.dll
+C:\Travel\TareaDDD\Web.Api\bin\Debug\net7.0\MediatR.dll
+C:\Travel\TareaDDD\Web.Api\bin\Debug\net7.0\MediatR.Contracts.dll
+C:\Travel\TareaDDD\Web.Api\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Travel\TareaDDD\Web.Api\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Travel\TareaDDD\Web.Api\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Travel\TareaDDD\Web.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Travel\TareaDDD\Web.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Travel\TareaDDD\Web.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Travel\TareaDDD\Web.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Travel\TareaDDD\Web.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Travel\TareaDDD\Web.Api\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Travel\TareaDDD\Web.Api\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Travel\TareaDDD\Web.Api\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Travel\TareaDDD\Web.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Travel\TareaDDD\Web.Api\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Travel\TareaDDD\Web.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Travel\TareaDDD\Web.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Travel\TareaDDD\Web.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Travel\TareaDDD\Web.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Travel\TareaDDD\Web.Api\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Travel\TareaDDD\Web.Api\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Travel\TareaDDD\Web.Api\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Travel\TareaDDD\Web.Api\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Travel\TareaDDD\Web.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Travel\TareaDDD\Web.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Travel\TareaDDD\Web.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Travel\TareaDDD\Web.Api\bin\Debug\net7.0\System.CodeDom.dll
+C:\Travel\TareaDDD\Web.Api\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Travel\TareaDDD\Web.Api\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Travel\TareaDDD\Web.Api\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Travel\TareaDDD\Web.Api\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Travel\TareaDDD\Web.Api\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Travel\TareaDDD\Web.Api\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Travel\TareaDDD\Web.Api\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Travel\TareaDDD\Web.Api\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Travel\TareaDDD\Web.Api\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Travel\TareaDDD\Web.Api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Travel\TareaDDD\Web.Api\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Travel\TareaDDD\Web.Api\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Travel\TareaDDD\Web.Api\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Travel\TareaDDD\Web.Api\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Travel\TareaDDD\Web.Api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Travel\TareaDDD\Web.Api\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Travel\TareaDDD\Web.Api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Travel\TareaDDD\Web.Api\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Travel\TareaDDD\Web.Api\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Travel\TareaDDD\Web.Api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Travel\TareaDDD\Web.Api\bin\Debug\net7.0\Application.dll
+C:\Travel\TareaDDD\Web.Api\bin\Debug\net7.0\Domain.dll
+C:\Travel\TareaDDD\Web.Api\bin\Debug\net7.0\Infrastructure.dll
+C:\Travel\TareaDDD\Web.Api\bin\Debug\net7.0\Application.pdb
+C:\Travel\TareaDDD\Web.Api\bin\Debug\net7.0\Infrastructure.pdb
+C:\Travel\TareaDDD\Web.Api\bin\Debug\net7.0\Domain.pdb
+C:\Travel\TareaDDD\Web.Api\obj\Debug\net7.0\Web.Api.csproj.AssemblyReference.cache
+C:\Travel\TareaDDD\Web.Api\obj\Debug\net7.0\Web.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Travel\TareaDDD\Web.Api\obj\Debug\net7.0\Web.Api.AssemblyInfoInputs.cache
+C:\Travel\TareaDDD\Web.Api\obj\Debug\net7.0\Web.Api.AssemblyInfo.cs
+C:\Travel\TareaDDD\Web.Api\obj\Debug\net7.0\Web.Api.csproj.CoreCompileInputs.cache
+C:\Travel\TareaDDD\Web.Api\obj\Debug\net7.0\Web.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Travel\TareaDDD\Web.Api\obj\Debug\net7.0\Web.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Travel\TareaDDD\Web.Api\obj\Debug\net7.0\staticwebassets\msbuild.Web.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Travel\TareaDDD\Web.Api\obj\Debug\net7.0\staticwebassets\msbuild.build.Web.Api.props
+C:\Travel\TareaDDD\Web.Api\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Web.Api.props
+C:\Travel\TareaDDD\Web.Api\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Web.Api.props
+C:\Travel\TareaDDD\Web.Api\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Travel\TareaDDD\Web.Api\obj\Debug\net7.0\staticwebassets.build.json
+C:\Travel\TareaDDD\Web.Api\obj\Debug\net7.0\staticwebassets.development.json
+C:\Travel\TareaDDD\Web.Api\obj\Debug\net7.0\scopedcss\bundle\Web.Api.styles.css
+C:\Travel\TareaDDD\Web.Api\obj\Debug\net7.0\Web.Api.csproj.CopyComplete
+C:\Travel\TareaDDD\Web.Api\obj\Debug\net7.0\Web.Api.dll
+C:\Travel\TareaDDD\Web.Api\obj\Debug\net7.0\refint\Web.Api.dll
+C:\Travel\TareaDDD\Web.Api\obj\Debug\net7.0\Web.Api.pdb
+C:\Travel\TareaDDD\Web.Api\obj\Debug\net7.0\Web.Api.genruntimeconfig.cache
+C:\Travel\TareaDDD\Web.Api\obj\Debug\net7.0\ref\Web.Api.dll
